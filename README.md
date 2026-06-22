@@ -12,7 +12,10 @@ A graphical interface built on ARM PyART & VisPY that emulates NCAR's SOLO3 prog
 2. Up/Down arrows: Change tilt
 3. 2-finger scroll: Zoom in/out
 
-Configs: 1-5 panels selectable (PANEL COUNT HIGHER THAN 3 WILL HAVE OVERLAPPING ISSUES)
+Aesthetics:
+Scaler/offset for colormap
+(PLACEHOLDER) In-app background color selector, although users can just change the BG color in the code.
+Azimuth/range rings(km)/tick marks(km)
 
 Data editing:
 
