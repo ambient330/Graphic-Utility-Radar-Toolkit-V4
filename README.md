@@ -1,5 +1,5 @@
-# Graphic-Utility-Radar-Toolkit-V4
-GURT V4 (the V stands for vispy)
+# Graphic-Utility-Radar-Toolkit-V
+GURT V (the V stands for vispy)
 
 
 A graphical interface built on ARM PyART & VisPY that emulates NCAR's SOLO3 program.
