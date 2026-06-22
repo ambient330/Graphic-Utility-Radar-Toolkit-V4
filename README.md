@@ -1,4 +1,4 @@
-# Graphic-Utility-Radar-Toolkit-V4 © adennison2009 & ambient330 
+# Graphic-Utility-Radar-Toolkit-V4
 GURT V4 (the V stands for vispy)
 
 
@@ -27,6 +27,8 @@ PREREQUISITE PACKAGES FOR V4:
     numpy
     scipy
     PyART
+
+Data recovered from gate averaging should be considered subjective
 
 Certain code was taken or referenced from these sources: lrose-colette, 2025: DeHart, J., Dixon, M., Javornik, B., Bell, M., Cha, T.-Y., DesRosiers, A., & Lee, W.-C. (2025). nsf-lrose/lrose-releases: lrose-colette-20250105 (lrose-colette-20250105). Zenodo. https://doi.org/10.5281/zenodo.14624762
 
